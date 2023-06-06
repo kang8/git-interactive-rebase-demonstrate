@@ -1,1 +1,1 @@
-- [ ] Buy a apple.
+- [ ] Buy an apple.
